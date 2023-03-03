@@ -14,7 +14,7 @@ To use the filter function, simply input values into the boxes in the given form
 The search results will narrow if any records match the inputs (example results below).
 
 <p align="center">
-  <img width=auto height="500" src=static/images/results.png>
+  <img width=auto height="200" src=static/images/results.png>
   </p>
 
 ### Conclusion
