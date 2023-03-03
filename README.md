@@ -8,13 +8,13 @@ This project served to introduce myself with the fundamentals of creating web-ba
 To use the filter function, simply input values into the boxes in the given formats (example search below).
 
 <p align="center">
-  <img width=auto height="500" src=images/filter.png>
+  <img width=auto height="500" src=static/images/filter.png>
   </p>
 
 The search results will narrow if any records match the inputs (example results below).
 
 <p align="center">
-  <img width=auto height="500" src=images/results.png>
+  <img width=auto height="500" src=static/images/results.png>
   </p>
 
 ### Conclusion
