@@ -55,8 +55,8 @@ function updateFilters() {
   
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
-    Object.values(filters).forEach((value) => {
-      filteredData = filteredData.filter(row => row.city === value);
+    Object.keys(filters).forEach((key) => {
+      filteredData = filteredData.filter(row => row[key] === filters[key]);
     });
     
   
